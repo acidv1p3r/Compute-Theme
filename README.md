@@ -1,4 +1,6 @@
 # Compute-Theme
+[discord-badge]: https://discord.com/api/guilds/897156326776520736/widget.png?style=shield
+[discord-link]: https://discord.gg/RgZGCqKxAb
 
 <div align="center">
 
