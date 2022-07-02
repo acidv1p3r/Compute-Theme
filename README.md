@@ -10,7 +10,7 @@
   
 [![Discord Server][discord-badge]][discord-link]
 
-![v6 Sapphire](https://github.com/ac1dv1p3r/Compute-Theme/blob/2d209519bb8598e153bc0d9b9e865c2c1554e96e/Screenshots/screenshot.png)
+![v6 Sapphire](https://github.com/acidv1p3r/Compute-Theme/blob/main/Screenshots/screenshot.png)
 
 </div>
 
